@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: '386 Labs'
-description: 'is passionate about creating innovative user experiences that push the boundaries of what is possible'
+description: 'passionate about creating innovative user experiences that push boundaries'
 
 # Images
 avatar: 'robot.jpg'
